@@ -1,0 +1,53 @@
+h1 {
+    color: tan;
+    text-align: center;
+    font-size: 50px;
+    background: #000;
+    display: inline;
+}
+
+#tubaRabby {
+    font-style: italic;
+    font-size: 20px;
+    color: red;
+    background-color: navy;
+    text-transform: capitalize;
+    text-align: justify;
+    background: pink;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    background: red;
+    text-align: center;
+    display: block;
+
+}
+
+#lorem-1 {
+    background: aqua;
+}
+
+#lorem-2 {
+    background: navy;
+}
+
+#lorem-2 p {
+    color: #fff;
+}
+
+#lorem-2 a {
+    color: beige;
+    background: tomato;
+}
+
+#lorem-1 h1 {
+    display: block;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}

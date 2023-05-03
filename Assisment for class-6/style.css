@@ -1,0 +1,45 @@
+#box-1{
+	background-color: #63876c;
+}
+
+
+h1 {
+
+	color: #32a852;
+	font-size: 50px;
+	text-align: center;
+	background-color: black;
+	display: inline-block;
+}
+
+#article-1{
+	font-size: 20px;
+	font-style: italic;
+	background-color: hotpink;
+}
+
+a{
+
+	text-decoration: line-through;
+	color: green;
+	font-size: 18px;
+	background-color: #000;
+	text-align: center;
+	display: block;
+
+}
+
+#article-2{
+	background-color: #51c971;
+	color: #fff;
+}
+
+#box-2{
+	background: #998651;
+	width: 80%;
+}
+
+span{
+
+	color: #000;
+}
